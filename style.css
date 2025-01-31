@@ -1,0 +1,35 @@
+/* style.css */
+
+/* ページ全体の背景色とフォントスタイルを設定 */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* タイトルのスタイルを設定 */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* セクションの見出しスタイルを設定 */
+h2 {
+    color: #444;
+}
+
+/* リストのスタイルを設定 */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* リンクのスタイルを設定 */
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+/* リンクのホバーエフェクトを設定 */
+a:hover {
+    text-decoration: underline;
+}

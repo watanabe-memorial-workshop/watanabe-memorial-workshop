@@ -1,0 +1,70 @@
+/* style.css */
+
+/* ページ全体の背景色とフォントスタイルを設定 */
+body {
+    /*background-color: #b3b0b0; */
+    background-color: #ffffff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    /* margin: 0; */
+    /* padding: 0; */
+}
+
+/* タイトルのスタイルを設定 */
+h1 {
+    color: #0c315f;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 36px;
+}
+
+/* セクションの見出しスタイルを設定 */
+h2 {
+    color: #0c315f;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #0c315f;
+
+}
+
+
+
+/* リストのスタイルを設定 */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* リストアイテムのスタイルを設定 */
+li {
+    margin-bottom: 8px;
+}
+
+/* リンクのスタイルを設定 */
+a {
+    color: #0077cc;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+/* リンクのホバーエフェクトを設定 */
+a:hover {
+    color: #0055aa;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    /*border: 1px solid #ddd; */
+    padding: 8px;
+    text-align: left;
+}
+
+
+
